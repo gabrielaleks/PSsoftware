@@ -1,0 +1,1 @@
+printf("a is not less than 20\n")
